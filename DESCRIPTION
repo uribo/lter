@@ -1,0 +1,13 @@
+Package: lter
+Type: Package
+Title: Tools for longterm ecological data analysis
+Version: 0.0.0.9000
+Date: 2015-04-24
+Authors@: Shinya Uryu
+Maintainer: c(person("Shinya", "Uryu", , "suika1127@gmail.com", role = c("aut", "cre")))
+Description: To improvement ecological data analysis, especially longterm foreset research.
+URL: https://github.com/uribo/lter
+BugReports: https://github.com/uribo/lter/issues
+License: MIT
+LazyData: TRUE
+Depends: R (>= 3.1.3)
